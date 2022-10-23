@@ -1,0 +1,3 @@
+YcaO used in the production of thioholgamide, taken from Jesko's paper. Though Jesko has already given me a sequence with a very high sequence identity, so this one might be redundant.
+Apparently this YcaO is not expressed alongside an E1 protein, not sure if it contains one within. but it is expressed along with a TfuA protein for functionality. I think they are involved in sulfur transfer.
+https://www.ncbi.nlm.nih.gov/nuccore/NZ_LBDA02000057.1

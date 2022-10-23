@@ -1,0 +1,3 @@
+This YcaO is fused to the C region E1 ubiquitin like protein, hence is a C/D region YcaO.
+It produces threonine, serine and cysteine azolines, which are then dehydrated to azoles.
+This specific DNA sequence came from Streptomyces sp. FXJ1.264, which produces azolemycin. Not a very potent antimicrobial apparently

@@ -1,0 +1,2 @@
+YcaO catalyses the thioamidation of a glycine residue for methyl coenzyme M reductase, an archaea enzyme involved in methane release and capture. Apparently it is translationaly coupled to the TfuA enzyme next to it that helps in sulfur transfer to the substrate, meaning their start and stop codons overlap. 
+The paper this is from https://elifesciences.org/articles/29218 says certain homologues of this gene don't have TfuA present or required

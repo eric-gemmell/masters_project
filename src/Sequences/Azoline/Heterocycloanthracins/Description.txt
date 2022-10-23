@@ -1,0 +1,4 @@
+These YcaOs are mainly found in bacillus anthracis and bacillus cereus.
+These YcaOs require and "Ocin-ThiF" partner protein for cyclodehydratase activity
+This protein comes bound to the E1 domain
+Much pain was required to find this protein... #I found the dna of the strain, then since the locus number was total junk in the paper "Identification of an Auxiliary Leader Peptide-Binding Protein Required for Azoline Formation in Ribosomal Natural Products" I just found some primer they used in their SI document for the protein, then searched for that primer in the whole organism... Not the right way to do it...

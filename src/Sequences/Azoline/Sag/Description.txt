@@ -1,0 +1,3 @@
+oxazole and thiazole forming YcaO eznyme called SagD, it can catalyse both.
+It is clustered with SagB and SagC to convert SagA into a lytic peptide for virulence against human cells. 
+Apparently these enzymes have activity against other LAPs (linear azole containing peptides) such as McbA, to produce their normal RiPPs 

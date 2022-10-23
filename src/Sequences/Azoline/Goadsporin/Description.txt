@@ -1,0 +1,2 @@
+Goadsporin is a funky LAP (linear azole containing peptide), with a dehydrated serine residue.
+The YcaO formes serine, threonine and cysteine azoles. Fused YcaO to the E1 binding domain

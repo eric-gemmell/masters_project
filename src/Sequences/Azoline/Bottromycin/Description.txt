@@ -1,2 +1,3 @@
 Bottromycin azole forming YcaO, bottromycin has 2 YcaOs in its BGC but this one only forms a single thiazole. Description from Jesko:
 Single heterocycle, follower peptide
+BlastP of this sequence only provides 27 sequences that are v closely related, none are more distantly related, even setting E<0.05 doesn't yield more sequences

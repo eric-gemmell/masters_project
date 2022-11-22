@@ -1,4 +1,6 @@
 This sequence codes for McbD, an oxazole and thiazole forming YcaO. It is involved in the biosynthesis of Microcin B17, BccB17.
-it formes a trimer complex with McbB and McbC to cyclise and dehydrogenate McbA into the required RiPP.
+it formes a trimer complex with McbB and McbC to cyclise and dehydrogenate McbA into the required RiPP. I think it has an E1 like partner, which is not covalently bound
 
 https://www.ncbi.nlm.nih.gov/gene/?term=McbD#reference-sequences
+
+Low number of sequences initially found with low E value, rerunning the search with E<0.05 results in more sequences, most of which are autolabeled YcaO family, hence deemed valuable

@@ -1,2 +1,4 @@
 From Jesko: N-terminal amidine and heterocycles (Ser(Thr/Cys).
 So can this YcaO form both azoles and amidines?
+
+This enzyme gave few sequence hits with low E value (1e^-15) hence a high E value search (E<0.05) gave more sequences, these were deemed good because they were all autolabeled YcaO like enzymes

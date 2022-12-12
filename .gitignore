@@ -136,3 +136,4 @@ src/external_scripts/
 #ignore all really large whole contig file
 src/jesko_fungus_sequences/*.txt
 src/processed_sequences/*.txt
+*.txt.*

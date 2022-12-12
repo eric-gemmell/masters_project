@@ -1,0 +1,3 @@
+thiopeptide synthesising YcaO, found because of similarity to goadsporin.
+thiazole and oxazole forming YcaO. It is an F dependent YcaO, its BGC has a OCIN-ThiF protein. I dont think it is fused to an E1 domain, you can see a domain is missing compared to Goadsporin, which should have an E1 domain. Whether that is the E1 domain is up to debate however. but the paper describing these isn't very clear
+https://www.sciencedirect.com/science/article/pii/S1074552114001148?via%3Dihub

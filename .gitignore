@@ -128,3 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 github_token
+src/external_scripts/
+
+
+# Ignore Really largefiles that I produce
+*.hat2
+#ignore all really large whole contig file
+src/jesko_fungus_sequences/*.txt
+src/processed_sequences/*.txt

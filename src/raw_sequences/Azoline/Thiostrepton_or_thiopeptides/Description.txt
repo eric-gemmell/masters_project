@@ -1,3 +1,0 @@
-Ycao involved in the biosynthesis of thiostrepton a thiopeptide with antimicrobial properties. Isolated from streptomyces laurentii, the genes name is TsrO. For more info https://www.ncbi.nlm.nih.gov/protein/225055391 and paper https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2676563/
-only seems to catalyse thiazoline synthesis, and seems to be a fused YcaO enzyme, thus containing a E1 domain within, and interacting with a Ocin-ThiF-like protein. That is just my opinion however, no paper supports that, as it is simply not known, but other thiopeptides (maybe I should have checked another one eh Eric?) have the ocin-thif protein, so I'd say its a fair bet.
-

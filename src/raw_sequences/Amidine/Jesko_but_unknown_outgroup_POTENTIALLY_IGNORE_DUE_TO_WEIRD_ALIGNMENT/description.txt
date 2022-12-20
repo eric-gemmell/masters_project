@@ -1,0 +1,2 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167974/
+This paper says, that the sequence has no known substrate, but that is catalyses the hydrolysis of ATP to AMP and pyrophosphate, albeit at a slow rate. Short sequence, with no E1 sequence present, fused or nearby

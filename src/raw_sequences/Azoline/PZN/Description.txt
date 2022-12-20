@@ -1,4 +1,0 @@
-BAMD is an oxazole/thiazole forming YcaO, used to synthesise PZN, an antimicrobial against anthrax. Gene isolated from Bacillus velezensis 	
-
-High E value (E<0.05) sequences were gathered since low E value sequences were not very numerous. These were deemed of sufficient quality since, InterPro indicated random sequences with high E value did conatin a YcaO domain
-

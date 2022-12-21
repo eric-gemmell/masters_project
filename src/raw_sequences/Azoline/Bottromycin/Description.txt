@@ -3,4 +3,6 @@ Single heterocycle, follower peptide
 
 Another paper (EcYcaO paper) indicates that bottromycin is a standalone YcaO
 
+Interpro confirms this to be a YcaO domain
+
 BlastP of this sequence only provides 27 sequences that are v closely related, none are more distantly related, even setting E<0.05 doesn't yield more sequences

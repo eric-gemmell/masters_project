@@ -1,3 +1,4 @@
+This sequence is very short and is not annotated as a YcaO by interpro. Most YcaO domains are at least 400 aa long, hence this is likely something else
 This sequence codes for McbD, an oxazole and thiazole forming YcaO. It is involved in the biosynthesis of Microcin B17, BccB17.
 it formes a trimer complex with McbB and McbC to cyclise and dehydrogenate McbA into the required RiPP. I think it has an E1 like partner, which is not covalently bound
 

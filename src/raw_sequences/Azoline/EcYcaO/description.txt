@@ -1,0 +1,2 @@
+Apparently, this YcaO has a proline rich C terminus that is involved in E1 protein binding. It is a standalone YcaO, that binds the E1 protein. Found in E coli
+https://www.nature.com/articles/nchembio.1608 VERY GOOD PAPER ON THE CONSERVED YCAO REGIONS< THAT ARE ESSENTIAL FOR ATP BINDING

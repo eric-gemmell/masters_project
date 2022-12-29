@@ -1,0 +1,7 @@
+Dear Jesko,
+
+I hope you are doing well, I am messaging you today because I am really struggling with the ancestral gene reconstruction. I am putting in a lot of time and effort to getting it to work, however this process is actually very complex with many pitfalls, and I am really having a hard time understanding how to get through it. First of all, the ancestral gene reconstruction outputs a series of sequences that have the same length as the MSA file, which tends to 5000-17000 amino acids long depending on how many protein sequences are used. Hence, the resulting ancestral protein is way to long to be a viable sequence, and this suggests something fundamentally wrong with the way the ancestral state is being determined. 
+
+Additionaly, I have decided to download the set of proteins labeled by Interpro as YcaO, which is a set of 17 000 proteins, this makes sense because I am using Interpro anyway to validate my data, and as it turns out about 85-95% of my sequences were inside that set of 17 000 proteins anyway. This larger set of sequences indicates that there was a lot of YcaO  sequence space that my searches were missing. However this now presents the problem, that 17000 sequences are too many to run through iqtree (the ancestral gene reconstruction and phylogenic analysis software) hence, there needs to be a way to cluster these sequences doing to a more manageable 1000-3000 sequences at most.
+
+Even assuming that all these things are solved, I am still lacking the ability to validate the results, 

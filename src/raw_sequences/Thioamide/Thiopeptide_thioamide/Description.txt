@@ -1,0 +1,3 @@
+organism: Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae; Amycolatopsis.
+TfuA associated YcaO that supposedly adds the thioamide group to the thiopeptide saalfelduracin. This molecule also features azoles, hence there are various YcaOs at play here.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6404778/

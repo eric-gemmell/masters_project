@@ -137,3 +137,4 @@ src/jesko_fungus_sequences/*.txt
 src/processed_sequences/
 src/external_scripts/
 **.phy.*
+*.DS_Store

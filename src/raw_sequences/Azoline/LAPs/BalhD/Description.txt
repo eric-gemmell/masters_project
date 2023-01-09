@@ -1,0 +1,1 @@
+Azoline forming Ycao, not fused with E1, but dependent on it for function. Contains N=C terminal PxPxP motif, which is apparently important for TOMM YcaOs but not directly related to catalysis

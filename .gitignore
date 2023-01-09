@@ -136,5 +136,7 @@ github_token
 src/jesko_fungus_sequences/*.txt
 src/processed_sequences/
 src/external_scripts/
+src/external_programs/
+src/thesis/
 **.phy.*
 *.DS_Store

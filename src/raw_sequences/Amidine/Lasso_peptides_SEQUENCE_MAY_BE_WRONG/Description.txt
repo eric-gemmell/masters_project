@@ -1,5 +1,0 @@
-SviC gene which encodes a macrolactamidine synthesising YcaO. This kind of YcaO recognises the amino acid to which the n terminus will be linked.
-This gene has an ERR binding protein at the C terminus, which by my knowledge is a domain that recognises the leader peptide. This ERR sequence might be directly linked or just coexpressed with SviC. 
-Lasso peptides are cool because of their relatively rigid structure due to various disulfide bridges and the knot they form.
-https://www.ncbi.nlm.nih.gov/nuccore/KT310072.1
-https://pubs.acs.org/doi/full/10.1021/acschembio.5b00584

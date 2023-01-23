@@ -1,2 +1,2 @@
-fused YcaO with E1 and YcaO domains, catalysees Threonine cyclodehydration and also peptide hydrolysis via ATP, it catalyses this hydrolysis, after a FMN dehydrogenase  converts the oxazolines into oxazoles, and it cleaves off the two follower peptides.
+fused YcaO with E1 and YcaO domains, catalyses Threonine cyclodehydration and also peptide hydrolysis via ATP, it catalyses this hydrolysis, after a FMN dehydrogenase  converts the oxazolines into oxazoles, and it cleaves off the two follower peptides.
 YcaO domain corresponds to residues 322-781 according to https://www.nature.com/articles/s41589-022-01141-0

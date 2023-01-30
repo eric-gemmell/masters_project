@@ -10,3 +10,4 @@ scipy
 requests
 biopython
 xmltodict
+pylev

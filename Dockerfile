@@ -8,6 +8,7 @@ RUN apt-get install -y gcc
 RUN apt-get install -y vim tree curl
 
 RUN apt-get install -y ncbi-blast+
+RUN apt-get install -y hmmer
 
 COPY requirements.txt .
 RUN pip3 install -r requirements.txt

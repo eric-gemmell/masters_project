@@ -1,0 +1,20 @@
+# Use Ubuntu as the base image
+FROM ubuntu:latest
+
+RUN mkdir /files
+
+# Install necessary packages
+RUN apt-get update && \
+    apt-get install -y git cmake build-essential
+
+# Clone the Github repo
+RUN git clone https://github.com/tothuhien/lsd2.git
+
+# Build and install the program using CMake
+RUN cd lsd2 && \
+    mkdir build && \
+    cd build && \
+    cmake .. && \
+    make 
+
+CMD ["sleep", "infinity"]

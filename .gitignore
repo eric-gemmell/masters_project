@@ -140,3 +140,4 @@ src/external_programs/
 src/thesis/
 **.phy.*
 *.DS_Store
+src/temp_files/

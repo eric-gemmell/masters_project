@@ -1,0 +1,4 @@
+Sequence of HcaD, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481143/
+
+It is a fused YcaO, fused to an E1 domain. This E1 domain is N terminally truncated however, and thus the enzyme has no activity of its own. 
+The enzyme works alongside a Ocin-ThiF-Like protein which acts as a docking protein for the leader peptide of the RiPP 
